@@ -9,7 +9,7 @@ const NavBar = ({ toggle }) => {
         role='navigation'
       >
         <Link to='/' className='pl-8 text-3xl'>
-          Tailwind
+          Stack
         </Link>
         <div className='px-4 cursor-pointer md:hidden' onClick={toggle}>
           <svg
