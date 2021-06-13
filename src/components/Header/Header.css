@@ -1,0 +1,9 @@
+.root {
+  background: linear-gradient(
+      180deg,
+      rgba(46, 157, 255, 0.5),
+      rgba(46, 157, 255, 0.22)
+    ),
+    url("../../images/header-bg.jpg") no-repeat center/cover;
+  min-height: calc(100vh - 64px);
+}
